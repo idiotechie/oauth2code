@@ -1,1 +1,0 @@
-This is a project to show how OAuth2 works
